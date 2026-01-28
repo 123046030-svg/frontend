@@ -78,7 +78,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'frontend_db',         # The name of the database you created
         'USER': 'rcortes',         # The username you created
-        'PASSWORD': 'REGINACOTES03',     # The password you created
+        'PASSWORD': 'REGINACORTES03',     # The password you created
         'HOST': '127.0.0.1',          # The host where MariaDB is running (usually localhost)
         'PORT': '3306',                   # Leave empty for the default port
     }
